@@ -1,0 +1,3 @@
+displayName = Defender Forge Unlimited Buffs
+author = Fayyne
+version = 0.1

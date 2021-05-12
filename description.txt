@@ -1,0 +1,3 @@
+This mod allows you to place stacks of Potions into your Defender Forge for unlimted buff duration. Default is standard max stack, can be increases from 1 to 1000.
+
+Do note if you go above standard stack size you will need a mod that allows for the QTY to be in a SINGLE stack.
