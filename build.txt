@@ -1,4 +1,4 @@
 displayName = Defender Forge Unlimited Buffs
 author = Fayyne
-version = 0.1
+version = 0.1.1
 homepage = https://github.com/Fayyne/DForgeUnlimitedBuffs
